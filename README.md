@@ -5,3 +5,5 @@
 - from miami, florida
 - cs & math @ stanford university
 - trying to make cool things :)
+
+[my linkedin!](https://www.linkedin.com/in/raiya-cohen/)
