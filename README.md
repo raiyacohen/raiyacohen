@@ -4,4 +4,4 @@
 ## 🎀 about me <3
 - from miami, florida
 - cs & math @ stanford university
-- trying to make cool things 
+- trying to make cool things :)
