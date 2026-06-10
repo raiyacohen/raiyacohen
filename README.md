@@ -7,3 +7,10 @@
 - trying to make cool things :)
 
 [my linkedin!](https://www.linkedin.com/in/raiya-cohen/)
+
+---
+## my projects :)
+
+i build little tools and fun things in my spare time — check them out!
+
+👉 [**little cool things**](https://github.com/raiyacohen/little-cool-things) — all my mini projects in one place! ✨
